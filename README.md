@@ -1,4 +1,4 @@
-C++ & Node. Experimenting w/ AI @ [Allie Project](https://github.com/allie-project)
+Rust, C++, & Node. Experimenting w/ AI @ [Allie Project](https://github.com/allie-project)
 
 <hr />
 
